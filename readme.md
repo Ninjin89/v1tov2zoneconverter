@@ -1,6 +1,6 @@
 # V1 to V2 Zone Converter
 
-This **C# console tool** reads old (v1) JSON files containing `CustomZones` (circle) or `PolygonZones` (polygons) from NoBuildZone configurations and **converts** them into a new (v2) JSON format for [NinjinsPvPPvE].
+This **C# console tool** reads old (v1) JSON files containing `CustomZones` (circle) or `PolygonZones` (polygons) from EMM configurations and **converts** them into a new (v2) JSON format for [NinjinsPvPPvE].
 
 ## How It Works
 1. **Compile** the C# project into an `.exe`.
